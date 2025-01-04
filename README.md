@@ -1,5 +1,7 @@
 # DAIO Reward System
 
+The vision behind DAIO's Reward System is simple. Those that hold and buy dips should be rewarded over jeets or buy pressure sellers. In theory if everyone held together the coin would go up right? Sadly that is not the case but the DAIO feels those that are loyal to a coin shall be rewarded. First use case is $DAIO and the agents that follow. Phase II will unlock it's second use case, the Solana blockchain.
+
 A loyalty system that tracks how long users have held DAIO tokens and calculates rewards based on holding duration. Frontend implementation coming soon. 
 -twitter https://x.com/DAIOrganization
 
