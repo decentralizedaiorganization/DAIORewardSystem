@@ -111,7 +111,7 @@ class DAIORewardSystem:
         Returns:
             dict: Reward information
         """
-        # Get quantum seed for this wallet
+        # Get quantum seed for their wallet
         quantum_seed = self.quantum_ai.generate_quantum_seed(wallet_address)
         
         # Calculate base tier
