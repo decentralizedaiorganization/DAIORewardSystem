@@ -24,7 +24,7 @@ class QuantumAIUtils:
                 qc.x(i)  # Apply NOT gate
         
         # Add entanglement
-        qc.cx(0, 1)
+        qc.cx(0, 0)
         qc.cx(1, 2)
         qc.cx(2, 3)
         
