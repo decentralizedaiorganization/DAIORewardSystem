@@ -1,6 +1,7 @@
 # DAIO Reward System
 
-A loyalty system that tracks how long users have held DAIO tokens and calculates rewards based on holding duration.
+A loyalty system that tracks how long users have held DAIO tokens and calculates rewards based on holding duration. Frontend implementation coming soon. 
+-twitter https://x.com/DAIOrganization
 
 ## Features
 
